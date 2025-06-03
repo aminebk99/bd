@@ -306,9 +306,7 @@ const JihanLoveAnimation: React.FC = () => {
                 <h1 className="text-7xl md:text-9xl font-bold bg-gradient-to-r from-pink-400 via-purple-400 via-yellow-400 to-pink-400 bg-clip-text text-transparent font-serif animate-pulse drop-shadow-2xl">
                   Jihan
                 </h1>
-                <p className="text-3xl text-pink-200 font-light drop-shadow-lg">
-                  💖 From Agadir with Endless Love 💖
-                </p>
+                
                 <div className="text-4xl animate-bounce">
                   🌹✨🌹
                 </div>
